@@ -50,7 +50,4 @@ Future work includes:
 * Exploring other applications of auto-image annotation
 * Investigating the use of transfer learning for auto-image annotation
 
-**License**
----------
-This project is licensed under the MIT License. See `LICENSE` for more information.
 
